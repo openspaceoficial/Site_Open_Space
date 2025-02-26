@@ -65,7 +65,7 @@ buttoncriatT.addEventListener('click', () => {
 
 const buttonR = document.getElementById('button-romulo');
 buttonR.addEventListener('click', () => {
-    window.location.href = 'https://cloud.dify.ai/app/7f783948-2c4f-4da7-844a-483ff6a9606c/configuration';
+    window.location.href = 'https://romulomoissanite.com.br/';
 });
 
 const buttonAmor = document.getElementById('buttonAmor');
